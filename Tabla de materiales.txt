@@ -1,0 +1,16 @@
+Pieza
+Motor 42SHD0001-24B
+Montura nema 17
+PCB
+Pilas AAA recargables
+Porta pilas 10 pilas
+Sensor Final de carrera
+Interruptor lámpara
+VIPMOON 10 pares 5.5 x 2.1mm macho + hembra
+Paquete de pines y cables Arduino
+Base impresa en 3D (104 g de PLA)
+ELEGOO UNO con cable
+Cargador de baterías Amazon Basics
+Ruedas neumático DIY 54 x 29 mm
+Rueda libre D20 mm
+Bridas cortas
